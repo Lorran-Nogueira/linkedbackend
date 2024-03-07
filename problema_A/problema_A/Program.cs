@@ -5,6 +5,7 @@ class Program
 {
     static void Main()
     {
+        Console.WriteLine("Digite a quantidade de Brinquedos e a Altura ");
         string[] input = Console.ReadLine().Split();
         int n = int.Parse(input[0]);           
         int h = int.Parse(input[1]); 

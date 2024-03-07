@@ -4,19 +4,21 @@ class Program
 {
     static void Main()
     {
+        Console.WriteLine("Escreva a Quantidade de competidores");
         int casosTeste = int.Parse(Console.ReadLine());
 
         for (int i = 0; i < casosTeste; i++)
         {
-            int n = int.Parse(Console.ReadLine());
-
+            Console.WriteLine("Escreva o Grid de Largada dos competidores");
             int[] largada = Array.ConvertAll(Console.ReadLine().ToCharArray(), c => int.Parse(c.ToString()));
 
+
+            Console.WriteLine("Escreva o Grid de Chegada dos competidores");
             int[] chegada = Array.ConvertAll(Console.ReadLine().ToCharArray(), c => int.Parse(c.ToString()));
 
             int ultrapassagens = CalcularUltrapassagens(largada, chegada);
 
-            Console.WriteLine(ultrapassagens);
+            Console.WriteLine($"No total foram: {ultrapassagens} ultrapassagens");
         }
     }
 
