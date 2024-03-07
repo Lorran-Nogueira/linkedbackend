@@ -1,0 +1,14 @@
+C:\Users\lorra\Documents\TesteLinked\problema_B\problema_B\bin\Debug\net8.0\problema_B.exe
+C:\Users\lorra\Documents\TesteLinked\problema_B\problema_B\bin\Debug\net8.0\problema_B.deps.json
+C:\Users\lorra\Documents\TesteLinked\problema_B\problema_B\bin\Debug\net8.0\problema_B.runtimeconfig.json
+C:\Users\lorra\Documents\TesteLinked\problema_B\problema_B\bin\Debug\net8.0\problema_B.dll
+C:\Users\lorra\Documents\TesteLinked\problema_B\problema_B\bin\Debug\net8.0\problema_B.pdb
+C:\Users\lorra\Documents\TesteLinked\problema_B\problema_B\obj\Debug\net8.0\problema_B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorra\Documents\TesteLinked\problema_B\problema_B\obj\Debug\net8.0\problema_B.AssemblyInfoInputs.cache
+C:\Users\lorra\Documents\TesteLinked\problema_B\problema_B\obj\Debug\net8.0\problema_B.AssemblyInfo.cs
+C:\Users\lorra\Documents\TesteLinked\problema_B\problema_B\obj\Debug\net8.0\problema_B.csproj.CoreCompileInputs.cache
+C:\Users\lorra\Documents\TesteLinked\problema_B\problema_B\obj\Debug\net8.0\problema_B.dll
+C:\Users\lorra\Documents\TesteLinked\problema_B\problema_B\obj\Debug\net8.0\refint\problema_B.dll
+C:\Users\lorra\Documents\TesteLinked\problema_B\problema_B\obj\Debug\net8.0\problema_B.pdb
+C:\Users\lorra\Documents\TesteLinked\problema_B\problema_B\obj\Debug\net8.0\problema_B.genruntimeconfig.cache
+C:\Users\lorra\Documents\TesteLinked\problema_B\problema_B\obj\Debug\net8.0\ref\problema_B.dll
